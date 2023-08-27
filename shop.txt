@@ -1,7 +1,11 @@
-Oranges	
+Lemons
 Bananas 
 Corn
-More Dog Food
+<<<<<<< HEAD
+More Dog Food and rabbit food
+=======
+Rabbit Food
+>>>>>>> dev
 Cereal
 Bread
 Eggs
